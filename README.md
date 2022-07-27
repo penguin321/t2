@@ -7,7 +7,8 @@ Das All-in-One Pack kannst du [hier](https://david-block.de) herunterladen.
 - VS Code
 - German Language Pack
 - Live Server Plugin (Five Server)
-- Projektordnervorlagen (index.html, style.css, five-server.config
+- Projektordnervorlagen (index.html, style.css, five-server.config)
+- Quicklinks zu verschiedenen Web-Design Seiten)
 ***
 
 ![HTML Code](https://david-block.de/t2.png)
